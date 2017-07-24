@@ -1,0 +1,49 @@
+.ui-button-wrap
+  text-align left
+  
+  & .ui-button
+    margin 0 20px 15px 0
+    display inline-block
+
+.ui-button
+  padding 12px 14px
+  font-size 13px
+  font-weight 700 
+  line-height 13px
+  text-shadow 0 -1px 0 rgba(0, 0, 0, .2)
+  color #ffffff
+  background-image linear-gradient(to top, rgba(0, 0, 0, .15) 0, rgba(255, 255, 255, .15) 100%)
+  border none
+  border-radius 3px
+  
+  &:active, &:hover, &:focus
+    outline none
+    
+  &:active, &:focus
+    box-shadow inset 1px 1px .7px .7px rgba(0, 0, 0, .7)
+    
+  &:hover
+    box-shadow inset -1px -1px .5px .5px rgba(255, 255, 255, .7)
+    &:active
+      box-shadow inset 1px 1px .5px .5px rgba(0, 0, 0, .7)
+  
+  &_green
+    background-color #8caf2f
+    
+  &_grey
+    background-color #d1d1d1
+    
+  &_blue
+    background-color #6aa2f7
+    
+  &_brown
+    background-color #f67441
+    
+  &_violet
+    background-color #f16bef
+    
+  &_red
+    background-color #f95151
+    
+  &_aqua
+    background-color #61e0e8

@@ -1,0 +1,12 @@
+extends ../blocks/layout-default/layout-default
+
+include ../blocks/slider/slider
+
+block vars 
+  - var pageTitle = 'home'
+  
+block contents
+  main.page-content
+    .container
+      h1 A Theme Unlike Any Other. Simply Fantastic!
+      +slider()

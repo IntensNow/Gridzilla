@@ -1,0 +1,59 @@
+.nav-menu
+  padding-top 18px
+  width 100%
+  font-family font-family-main
+  border-top 1px solid #ececec
+  
+  &__list
+    margin 0
+    padding 0
+    clearfix()
+
+  &__item
+    float left
+    list-style none
+    transition color .15s ease-in-out, background-color .15s ease-in-out, text-shadow .15s ease-in-out
+    
+    &_active, &:hover
+      text-shadow .25px .1px .3px font-color-red
+      color font-color-red
+      
+      &:after
+        position relative
+        bottom 39px
+        display block
+        height 1px
+        content ''
+        background-color font-color-red
+      
+  &__link
+    padding 0 23px
+    width 100%
+    height 100%
+    font-size 14px
+    line-height 20px
+    text-transform uppercase
+    border-right 1px solid #ececec
+  
+  @media (max-width: 768px)
+    &__item
+      display block
+      float none
+      text-align center
+      border-bottom 2px solid #ececec
+      
+      &_active, &:hover
+        background-color #fbfafb
+      
+        &:after
+          overflow hidden
+          height 0
+    
+    &__link
+      padding 0 23px
+      width 100%
+      height 100%
+      font-size 25px
+      line-height 40px
+      text-transform uppercase
+      border-right none

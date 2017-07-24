@@ -1,0 +1,23 @@
+//-
+  arguments: { items: [string], pageTitle: string }
+
+//-
+  Если это пункт home и home !== pageTitle то href="index.html"
+  
+  Если pageTitle === пункт, то href="#"
+
+  иначе href=пункт
+  
+  var isCurrentPage = page === pageTitle;
+  var isHome = page.toLowerCase() === 'home';
+  
+mixin nav-menu(pages, pageTitle)
+  +b.NAV.nav-menu&attributes(attributes)
+    +e.UL.list
+      each page in pages
+        - var isCurrentPage = page === pageTitle;
+        - var isHome = page === 'home';
+        
+        +e.LI(class=isCurrentPage ? 'item_active' : 'item')
+          +e.A.link(href=isHome ? 'index.html' : page+'.html')= page
+              

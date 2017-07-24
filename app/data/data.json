@@ -1,0 +1,126 @@
+{
+  "pages": [ "home", "about", "blog", "contact" ],
+  
+  "posts": [
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "Sticker Mule",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-1.jpg"
+    },
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "10 Amazing Websites",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-2.jpg"
+    },
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "Top iPhone Apps",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-3.jpg"
+    },
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "Photo Shoot",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-4.jpg"
+    },
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "Big Buck Bunny",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-5.jpg"
+    },
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "Character Design",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-6.jpg"
+    },
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "Service Icons",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-7.jpg"
+    },
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "Wedding Card",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-8.jpg"
+    },
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "Pinterest Icons",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-9.jpg"
+    },
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "iPad 3 Review",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-10.jpg"
+    },
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "iPad 3 Review",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-11.jpg"
+    },
+    {
+      "author": "Michael Reimer",
+      "date": "June 15, 2012",
+      "previewHeading": "Silver UI Kit",
+      "mainHeading": "Sticker Mule. Best Place For Your Sticker Needs!",
+      "tags": ["Website", "Design"],
+      "previewText": "Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.",
+      "mainText": "Eum eu tale clita iuvaret, cu est saperet forensibus interesset, cum ne case iusto oportere. Id idque indoctum eum, menandri mediocrem has ei. At usu modo quaerendum. Sit ei dicunt tacimates, mea ea enim eirmod suscipiantur, amet dicit ancillae vel in. Ex mea augue eloquentiam, his postea dolorem suavitate ea. Mel hendrerit accommodare concludaturque ex.",
+      "imageSrc": "images/posts/img-12.jpg"
+    }
+  ]
+}

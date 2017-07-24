@@ -1,0 +1,15 @@
+mixin article-preview(article)
+  +b.SECTION.article-preview&attributes(attributes)
+    +e.FIGURE.illustration
+      +e.IMG.img(src=article.imageSrc)
+      +e.overlay
+        +e.SPAN.check
+          a(href="#") &#10004;
+    +e.ARTICLE.content
+      +e.HEADER.header
+        +e.H2.heading= article.previewHeading
+        +e.P.date-wrap
+          +e.TIME.date= article.date
+      +e.P.text= article.previewText
+        br
+        +e.A.see-more.link-arrow(href='#') See more

@@ -1,0 +1,16 @@
+include ../nav-menu/nav-menu
+include ../search-block/search-block
+
+mixin main-header(pageTitle)
+  +b.HEADER.main-header&attributes(attributes)
+    .container
+      .row
+        .col-xs-12
+          +e.A.link(href="#")
+            +e.IMG.logo(alt="logo" src="images/gridzilla-logo.jpg")
+          +e.search
+            +search-block
+              
+      .row
+        .col-xs-12
+          +nav-menu(pages, pageTitle).main-header__nav

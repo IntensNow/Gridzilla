@@ -1,0 +1,52 @@
+import('sprites/*')
+import('helpers/svg-size')
+@import 'helpers/variables'
+@import 'helpers/mixins'
+@import 'helpers/fonts'
+@import 'helpers/optimize'
+
+import('../blocks/**/*')
+  
+body
+  position relative
+  font-family font-family-main, Helvetica, Arial, sans-serif 
+  font-size 12px
+  font-weight 400
+  line-height 18px
+
+h1, h2, h3, h4, h5, h6
+  font-family font-family-headiing, 'serif'
+  text-align center
+  color font-color-black
+  
+h1
+  margin 0 0 40px
+  font-size 30px
+  font-weight 400
+  
+h2
+  margin 0 0 8px
+  font-family font-family-headiing
+  font-size 18px
+  font-weight 700
+  line-height 18px
+  text-align center
+  color font-color-black
+
+a
+  font-family inherit
+  text-decoration none
+  color inherit
+  
+  &:hover, &:focus 
+    text-decoration none
+    color inherit
+    
+p
+  margin 0 0 25px
+  
+blockquote
+  font-size 12px
+  font-weight 300
+  font-style italic
+  line-height 18px
